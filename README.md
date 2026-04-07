@@ -14,7 +14,7 @@ pkg install git
 # Run command
 ```
 cd $HOME && rm -rf niki-tools
-git clone --depth=1 https://github.com/Niki404-Cyber/niki-tools.git
+git clone --depth=1 https://github.com/kawservai2497/KawserToolsBd.git
 cd niki-tools
 chmod 777 *
 ./FBA FRGT
